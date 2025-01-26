@@ -22,6 +22,14 @@ A aplicação consiste em uma listagem de jogos pré cadastrados que possibilita
 ## Back end
 Pré-requisitos: Java 21
 
+```bash
+# Clonar repositório
+git clone https://github.com/migueldev29/dslist.git
+
+# Executar o projeto
+./mvnw spring-boot:run
+```
+
 # Autor
 
 Miguel Domingues Francischini
